@@ -26,7 +26,7 @@ time.sleep(5)
 username_field = driver.find_element(By.ID, 'username')
 password_field = driver.find_element(By.ID, 'password')
 # submit_button = driver.find_element(By.NAME, 'submit')
-submit_button = driver.find_element(By.XPATH,"//input[@type='submit'][@tyle='background-color: black'][@value='Đăng nhập']")# change the THML on the website you wanna login
+submit_button = driver.find_element(By.XPATH,"//input[@type='submit'][@tyle='background-color: black'][@value='Đăng nhập']")# change the HTML on the website you wanna login
 
 # Enter credentials and submit
 # for user in username:
