@@ -5,11 +5,11 @@ from selenium.webdriver.support import expected_conditions as EC
 import time
 
 # Trang web đích
-login_url = 'https://thucongvu.kontum.gov.vn/'
+login_url = 'enter your link wanna login'
 
 # Github credentials
-username = "vthai.stnmt"
-password = "Vnpt@123"
+username = "enter your username wanna try login"
+password = "enter your password or pass list you wanna try login"
 
 # Create a new WebDriver instance
 driver = webdriver.Chrome()
