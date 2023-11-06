@@ -5,7 +5,7 @@ from selenium.webdriver.support import expected_conditions as EC
 import time
 
 # Trang web đích
-login_url = 'enter your link wanna login'
+login_url = 'enter link the website you wanna login'
 
 # Github credentials
 username = "enter your username wanna try login"
