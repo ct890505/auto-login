@@ -1,11 +1,11 @@
 import requests
 
 # Trang web đích
-login_url = 'https://thucongvu.kontum.gov.vn/'
+login_url = 'https:enter your url/'
 
 # Github credentials
-username = "vthai.stnmt"
-password = "Vnpt@123"
+username = "enter your user name"
+password = "enter your password"
 
 # Create a session
 session = requests.Session()
